@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Yevhenii",
+        "email": "5karatgg@gmail.com",
+        "password": "Lojka2009",
+        "role": "admin"
+    },
+    {
+        "name": "guest",
+        "email": "guest@guest",
+        "password": "",
+        "role": "guest"
+    }
+]
