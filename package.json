@@ -2,7 +2,7 @@
   "name": "toolkit-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kwodhs.github.io/toolbox-website",
+  "homepage": "https://kwodhs.github.io/toolkit-website",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
